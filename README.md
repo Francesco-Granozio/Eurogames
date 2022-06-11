@@ -1,4 +1,27 @@
-# Eurogames
-Questo progetto è stato realizzato per l'esame di Basi di Dati. Rappresenta un'interfaccia grafica in Java che comunica con un database sfruttando JDBC. L'obbiettivo del progetto era realizzare una piattaforma per la vendita di videogiochi e console online.
+# EuroGames
 
-Realizzato in collaborazione con il collega Angelo Nazzaro (https://github.com/sl1mSha4dey)
+This project has been realized for the DataBases Exam. It is a Java GUI which interacts with the DB using JDBC.  
+<br>
+It is possibile to perform the following operations on the DB via the app: `SELECT`, `INSERT`, `UPDATE`, `DELETE` and whatever `CUSTOM QUERY` you can come up with.
+
+## Demo
+
+Here are some screenshot of the application:
+
+<div align="center">
+  <img src="https://github.com/sl1mSha4dey/EuroGames/blob/main/demo/main.jpeg" />
+</div>
+<div align="left">
+  <img src="https://github.com/sl1mSha4dey/EuroGames/blob/main/demo/main_query.jpeg" />
+</div>
+<div align="right">
+  <img src="https://github.com/sl1mSha4dey/EuroGames/blob/main/demo/main_select.jpeg" />
+</div>
+
+## Technologies used
+
+This project has been coded with: `Java` and `MySQL`.
+
+## Collaborators & Contributors
+
+I'd like to mention and thank @[sl1mSha4dey](https://github.com/sl1mSha4dey) with whom I realized the project.
